@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RaiseRED-Mobile",
-    "slug": "RaiseRED-Mobile",
+    "name": "RaiseRED-mobile",
+    "slug": "RaiseRED-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
